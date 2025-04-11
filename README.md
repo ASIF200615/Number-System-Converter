@@ -68,7 +68,6 @@ gcc converter.c -o converter.exe
 | File | Description |
 |------|-------------|
 | `converter.c` | Main C source code with all features |
-| `converter.exe` | Compiled file (for Windows users) |
 | `conversion_history.txt` | Stores past conversions |
 | `README.md` | This documentation |
 
