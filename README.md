@@ -76,14 +76,16 @@ gcc converter.c -o converter.exe
 
 ---
 
-## 📁 Files in This Project
+## 📂 Files in This Project
 
-| File | Description |
-|------|-------------|
-| `converter.c` | Main C source code with all features |
-| `conversion_history.txt` | Stores past conversions |
-| `README.md` | This documentation |
-|'.gitignore'| Excludes unnecessary files |
+| File Name              | Description |
+|------------------------|-------------|
+| `converter.c`          | Main source code of the converter (with menu, validation, logging, and error handling). |
+| `conversion_history.txt` | Stores logs of all conversions performed during execution. |
+| `.gitignore`           | Excludes unnecessary files like `.exe` and temporary files from Git. |
+| `README.md`            | This file – provides project overview and instructions. |
+
+> ⚠️ Note: Compiled files like `converter.exe` are not included in the repo. You must compile the program on your own system.
 
 ---
 
@@ -100,3 +102,11 @@ gcc converter.c -o converter.exe
 ## 🙌 Author
 
 Made with 💙 by [Asif](https://github.com/ASIF200615)
+
+
+
+
+
+
+
+
