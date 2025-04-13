@@ -1,0 +1,7 @@
+# Ignore compiled files and system files
+converter.exe
+*.exe
+.vscode/
+*.o
+*.out
+*.obj
