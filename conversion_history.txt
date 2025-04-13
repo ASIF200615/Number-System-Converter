@@ -1,1 +1,3 @@
 
+Decimal: 25 → Binary: 11001, Octal: 31, Hexadecimal: 19
+Binary: 10101 → Decimal: 21, Octal: 25, Hexadecimal: 15
