@@ -1,5 +1,3 @@
-<img src="https://i.postimg.cc/XpvJxk6s/image.png" alt="Banner" style="width:100%;"/>
-
 # 🔢 Number System Converter in C
 
 ![Made with C](https://img.shields.io/badge/Made%20with-C-blue?style=for-the-badge)
