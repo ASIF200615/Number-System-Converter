@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/4yKMSfJ7/banner.png)
+![Banner](https://postimg.cc/XpvJxk6s)
 
 # 🔢 Number System Converter in C
 
