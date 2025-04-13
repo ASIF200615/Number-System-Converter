@@ -27,21 +27,34 @@ A powerful and user-friendly C program that lets you convert numbers between **D
 ## 📸 Sample Output
 
 ```
-========== Number System Converter ==========
-1. Decimal Conversion
-2. Binary Conversion
-3. View Conversion History
-4. Exit
+===== Number System Converter =====
+1. Decimal to Binary, Octal, Hexadecimal
+2. Binary to Decimal, Octal, Hexadecimal
+3. Octal to Decimal, Binary, Hexadecimal
+4. Hexadecimal to Decimal, Binary, Octal
+5. View Conversion History
+6. Exit
 Enter your choice: 1
 
---- Decimal Conversion ---
-Enter a decimal number: 25
-
+Enter Decimal number: 25
 Binary: 11001
 Octal: 31
 Hexadecimal: 19
 
-Conversion saved to history ✅
+===== Number System Converter =====
+Enter your choice: 2
+
+Enter Binary number: 10101
+Decimal: 21
+Octal: 25
+Hexadecimal: 15
+
+===== Number System Converter =====
+Enter your choice: 5
+
+====== Conversion History ======
+Decimal: 25 → Binary: 11001, Octal: 31, Hexadecimal: 19
+Binary: 10101 → Decimal: 21, Octal: 25, Hexadecimal: 15
 ```
 
 ---
