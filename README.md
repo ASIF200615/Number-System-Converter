@@ -17,6 +17,7 @@ A powerful and user-friendly C program that lets you convert numbers between **D
 - Octal ↔ Decimal, Binary, Hexadecimal  
 - Hexadecimal ↔ Decimal, Binary, Octal  
 
+✅ Handles **invalid inputs** with clear messages
 ✅ Saves a **conversion history** to a `.txt` file  
 ✅ Logs date and time of each conversion  
 ✅ Easy to extend with more features  
