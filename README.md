@@ -83,6 +83,7 @@ gcc converter.c -o converter.exe
 | `converter.c` | Main C source code with all features |
 | `conversion_history.txt` | Stores past conversions |
 | `README.md` | This documentation |
+|'.gitignore'| Excludes unnecessary files |
 
 ---
 
