@@ -42,6 +42,12 @@ Octal: 31
 Hexadecimal: 19
 
 ===== Number System Converter =====
+1. Decimal to Binary, Octal, Hexadecimal
+2. Binary to Decimal, Octal, Hexadecimal
+3. Octal to Decimal, Binary, Hexadecimal
+4. Hexadecimal to Decimal, Binary, Octal
+5. View Conversion History
+6. Exit
 Enter your choice: 2
 
 Enter Binary number: 10101
@@ -50,9 +56,14 @@ Octal: 25
 Hexadecimal: 15
 
 ===== Number System Converter =====
+1. Decimal to Binary, Octal, Hexadecimal
+2. Binary to Decimal, Octal, Hexadecimal
+3. Octal to Decimal, Binary, Hexadecimal
+4. Hexadecimal to Decimal, Binary, Octal
+5. View Conversion History
+6. Exit
 Enter your choice: 5
 
-====== Conversion History ======
 Decimal: 25 → Binary: 11001, Octal: 31, Hexadecimal: 19
 Binary: 10101 → Decimal: 21, Octal: 25, Hexadecimal: 15
 ```
@@ -82,7 +93,7 @@ gcc converter.c -o converter.exe
 |------------------------|-------------|
 | `converter.c`          | Main source code of the converter (with menu, validation, logging, and error handling). |
 | `conversion_history.txt` | Stores logs of all conversions performed during execution. |
-| `converter.gitignore`           | Excludes unnecessary files like `.exe` and temporary files from Git. |
+| `.gitignore`           | Excludes unnecessary files like `.exe` and temporary files from Git. |
 | `README.md`            | This file – provides project overview and instructions. |
 
 > ⚠️ Note: Compiled files like `converter.exe` are not included in the repo. You must compile the program on your own system.
