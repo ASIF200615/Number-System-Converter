@@ -1,0 +1,2 @@
+Decimal: 0 → Binary: 0, Octal: 0, Hexadecimal: 0
+Binary: 101 → Decimal: 5, Octal: 5, Hexadecimal: 5
