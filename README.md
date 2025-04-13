@@ -1,3 +1,5 @@
+![Banner](https://i.postimg.cc/4yKMSfJ7/banner.png)
+
 # 🔢 Number System Converter in C
 
 ![Made with C](https://img.shields.io/badge/Made%20with-C-blue?style=for-the-badge)
@@ -101,7 +103,7 @@ gcc converter.c -o converter.exe
 
 ## 🙌 Author
 
-Made with 💙 by [Asif](https://github.com/ASIF200615)
+Made with ❤️ by [Asif](https://github.com/ASIF200615)
 
 
 
